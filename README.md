@@ -15,7 +15,7 @@ Table of Contents
 
 1. Project Overview
 
-The Staff Tracking System is a web-based application designed to streamline the process of tracking employee attendance and managing duty posts in real time. Built using the Django framework, the system enables organizations to manage their staff efficiently by monitoring attendance, assigning duty posts, and generating relevant reports. This project is ideal for beginners and is structured to be completed within four days.
+The Staff Tracking System is a web-based application designed to streamline the process of tracking employee attendance and managing duty posts in real time. Built using the Django framework, the system enables organizations to manage their staff efficiently by monitoring attendance, assigning duty posts, and generating relevant reports. This project is backend centred. 
 
 2. Technology Stack
 
